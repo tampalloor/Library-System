@@ -1,0 +1,12 @@
+C 2000 F H Pirsig Robert, Zen & the Art of Motorcycle Maint,
+C 5000 F H Higgins Colin, Harold and Maude,
+C 5000 F H Lewis Sinclair, Babbitt,
+C 5000 F H Lewis Sinclair, Babbitt,
+C 5000 F H Lewis Sinclair, Babbitt,
+C 5000 X H Lewis Sinclair, Babbitt,
+C 2222 C H Danny Dunn & the Homework Machine, Williams Jay,
+C 1234 P H 2010 1 Communications of the ACM,
+C 1000 C H Bogus Title, Bogus Author,
+X 1000 C H Bogus Title, Bogus Author,
+C 1000 C H Bogus Title, Bogus Author,
+H 5000
